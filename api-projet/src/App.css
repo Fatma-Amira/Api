@@ -1,0 +1,23 @@
+.App{
+  display: flex;
+  justify-content: center;
+}
+.Container{
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  height: 650px;
+  margin-top: 100px;
+  padding: 10px;
+}
+.list-item{
+  background-color: seagreen;
+  margin:10px;
+  padding: 10px;
+  color: beige;
+  list-style: none;
+}
+h1{
+  text-align: center;
+  color: brown;
+}
